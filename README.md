@@ -10,3 +10,5 @@ import math
 def calc(x):
     return str(math.log(abs(12*math.sin(int(x)))))
 ```
+2. Файл task2_4_step8.py. В этом файле описывается решения задания предыдущего модуля.
+
